@@ -1,0 +1,16 @@
+{
+  "name": "jay-expense-tracker",
+  "version": "1.0.0",
+  "description": "Track expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd src && node index.js"
+  },
+  "author": "Sanjay Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0"
+  }
+}
